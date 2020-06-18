@@ -1,10 +1,8 @@
 # Menu
 
 
-<title>
-  Hello! Welcome to "github.io"
-  </title>
-<head>
+
+  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   </head>
   <body>
