@@ -1,7 +1,6 @@
 # Menu
 
 
-
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   </head>
@@ -9,13 +8,9 @@
     <a href="https://tomyung.github.io/games/zgxq/index.html">Chinese Chess (Complate)
   </a>
   <br></br>
-
   <a href="https://tomyung.github.io/videos/sm18804900.mp4">廃獄ハラハラ
   </a>
   <br></br>
-
   <a href="https://tomyung.github.io/videos/嘿嘿.mp4">C4D Test (laugh)
   </a>
   </body>
-
-
